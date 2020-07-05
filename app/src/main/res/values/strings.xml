@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical_1_2_b_Homework</string>
+    <string name="Toast_text">Toast</string>
+    <string name="count_text">Count</string>
+    <string name="zero">0</string>
+    <string name="Zero_text">Zero</string>
+    <string name="toast_message">Hello LiTing</string>
+</resources>
